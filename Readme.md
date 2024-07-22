@@ -1,3 +1,3 @@
-### Assignment
+# Assignment
 
-## This is an Coursework repo of DSA
+### This is an Coursework repo of DSA
