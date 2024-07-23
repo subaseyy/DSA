@@ -3,6 +3,6 @@ package task2;
 
 // Question 2, b
 
-public class twoB {
+public class movieTheater {
     
 }
