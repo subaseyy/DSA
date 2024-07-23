@@ -1,0 +1,8 @@
+package main.task2;
+
+
+// Question 2, b
+
+public class movieTheater {
+    
+}
